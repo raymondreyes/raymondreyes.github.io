@@ -197,7 +197,7 @@ h6 {
   align-items: center;
   justify-content: center;
   background: color-mix(in srgb, var(--red-color), transparent 20%);
-  color: var(--background-color);
+  color: var(--red-color);
   margin: 0 2px;
   border-radius: 50%;
   text-align: center;
